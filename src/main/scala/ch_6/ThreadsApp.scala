@@ -1,4 +1,4 @@
-package com.rx.playground
+package ch_6
 
 trait ThreadsApp {
 

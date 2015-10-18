@@ -1,10 +1,11 @@
-package com.rx.playground
+package ch_6
 
 import rx.lang.scala.subjects.ReplaySubject
 
 object ReplaySubjectRx extends App with ThreadsApp {
 
   var subject = ReplaySubject[String]()
+
   subject.onNext("one")
   subject.onNext("two")
   subject.onNext("three")

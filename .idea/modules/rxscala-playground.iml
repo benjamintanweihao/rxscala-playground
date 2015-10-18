@@ -27,5 +27,8 @@
     <orderEntry type="library" scope="TEST" name="SBT: org.scalatest:scalatest_2.11:2.2.4:jar" level="project" />
     <orderEntry type="library" name="SBT: io.reactivex:rxjava:1.0.11:jar" level="project" />
     <orderEntry type="library" name="SBT: io.reactivex:rxscala_2.11:0.25.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: commons-io:commons-io:2.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-parser-combinators:2.11.0-M4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-swing_2.11:1.0.1:jar" level="project" />
   </component>
 </module>

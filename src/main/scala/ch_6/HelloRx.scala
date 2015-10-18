@@ -1,4 +1,4 @@
-package com.rx.playground
+package ch_6
 
 import rx.lang.scala.Observable
 import scala.concurrent.duration._
